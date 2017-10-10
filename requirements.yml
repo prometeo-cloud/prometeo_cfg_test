@@ -1,0 +1,4 @@
+---
+- name: test_role
+  src: https://github.com/prometeo-cloud/prometeo_role_test
+...
