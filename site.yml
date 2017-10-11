@@ -1,6 +1,6 @@
 ---
 - name: Testing Configuration...
-  hosts: HoastA
+  hosts: HostA
   roles:
     - test_role
 ...
