@@ -1,6 +1,9 @@
 ---
 - name: Testing Configuration...
   hosts: HostA
+  vars:
+    test_url: "{{ test_url }}"
+    test_dictionary: "{{ test_dictionary }}"
   roles:
     - test_role
 ...
