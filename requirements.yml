@@ -1,4 +1,7 @@
 ---
 - name: test_role
   src: https://github.com/prometeo-cloud/prometeo_role_test
+
+- name: docker_manage_hosts
+  src: https://github.com/prometeo-cloud/docker_manage_hosts
 ...

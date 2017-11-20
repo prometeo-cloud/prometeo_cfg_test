@@ -1,1 +1,1 @@
-HostA ansible_connection=local
+[managed]
