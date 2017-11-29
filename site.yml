@@ -1,7 +1,6 @@
 ---
-- name: Deploy Red Hat Satellite server
-  hosts: localhost
+- name: Testing Configuration...
+  hosts: HostA
   roles:
-    - rhsatellite_install_master
-    - rhsatellite_configure_master
+    - test_role
 ...

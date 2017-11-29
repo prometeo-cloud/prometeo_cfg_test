@@ -1,1 +1,1 @@
-[hosts]
+HostA ansible_connection=local
